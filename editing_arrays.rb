@@ -12,7 +12,7 @@ end
 
 
 def add_colors
-  color << ["green", "blue"]
+  color << "green", "blue"
   puts color
 end
 
