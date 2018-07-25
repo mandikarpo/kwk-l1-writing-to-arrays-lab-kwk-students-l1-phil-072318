@@ -6,11 +6,9 @@ rainbow_colors = [
 
 
 def change_rainbow_colors
-  color = ["red", "light_red", "light_yellow"]
+rainbow_colors = ["red", "light_red", "light_yellow"]
   puts color
 end
-
-
 
 
 def add_colors
