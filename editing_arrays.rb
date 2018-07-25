@@ -18,4 +18,4 @@ change_rainbow_colors
 #   puts color
 # end
 
-add_colors
+# add_colors
