@@ -10,7 +10,7 @@ rainbow_colors = ["red", "light_red", "light_yellow"]
   puts rainbow_colors
 end
 
-change_rainbow_colors
+
 
 def add_colors
   color = ["red","light_red","light_yellow"]
