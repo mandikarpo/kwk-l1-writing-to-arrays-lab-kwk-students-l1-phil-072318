@@ -11,9 +11,9 @@ def change_rainbow_colors
 end
 
 
-# def add_colors
-#   color << ["green", "blue"]
-#   puts color
-# end
+def add_colors
+  color << ["green", "blue"]
+  puts color
+end
 
-# add_colors
+add_colors
