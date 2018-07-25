@@ -5,16 +5,16 @@ rainbow_colors = [
 ]
 
 
-def change_rainbow_colors
-  color = ["red", "light_red", "light_yellow"]
-  puts color
-end
+# def change_rainbow_colors
+#   color = ["red", "light_red", "light_yellow"]
+#   puts color
+# end
 
-change_rainbow_colors
+# change_rainbow_colors
 
 
 def add_colors
-  color << "green", "blue"
+  color << ["green", "blue"]
   puts color
 end
 
