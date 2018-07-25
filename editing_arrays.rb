@@ -10,8 +10,6 @@ def change_rainbow_colors
   puts color
 end
 
-change_rainbow_colors
-
 
 # def add_colors
 #   color << ["green", "blue"]
