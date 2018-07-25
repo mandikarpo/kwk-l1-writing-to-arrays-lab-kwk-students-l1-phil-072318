@@ -10,6 +10,8 @@ def change_rainbow_colors
   puts color
 end
 
+change_rainbow_colors
+
 
 def add_colors
   color = ["red","light_red","light_yellow"]
@@ -17,4 +19,3 @@ def add_colors
   puts color
 end
 
-add_colors
