@@ -12,8 +12,8 @@ end
 
 
 def add_colors
-  color << "green", "blue"
-  puts color
+  color << ["green", "blue"]
+  puts color.last 
 end
 
 add_colors
