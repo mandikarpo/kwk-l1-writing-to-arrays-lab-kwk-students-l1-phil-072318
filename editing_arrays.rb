@@ -18,4 +18,3 @@ def add_colors
   puts color
 end
 
-add_colors
